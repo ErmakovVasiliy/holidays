@@ -1,0 +1,27 @@
+img {
+	max-width: 100%;
+	display: inline-block;
+	/* background-size: contain; */
+}
+
+.catalog-list {
+	list-style-type: none;
+	display: flex;
+	
+
+}
+
+.list-item {
+	width: 500px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+
+}
+
+.container {
+	padding: 50px 100px;
+}
+
+.active {
+	flex: 5;
+}
